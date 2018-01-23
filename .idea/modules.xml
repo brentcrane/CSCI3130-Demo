@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CSCI3130Demo.iml" filepath="$PROJECT_DIR$/CSCI3130Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSCI3130-Demo.iml" filepath="$PROJECT_DIR$/CSCI3130-Demo.iml" />
+      <module fileurl="file://C:\Users\Brent\Documents\GitHub\CSCI3130-Demo\CSCI3130Demo.iml" filepath="C:\Users\Brent\Documents\GitHub\CSCI3130-Demo\CSCI3130Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Brent\Documents\GitHub\CSCI3130-Demo\app\app.iml" filepath="C:\Users\Brent\Documents\GitHub\CSCI3130-Demo\app\app.iml" />
     </modules>
   </component>
 </project>

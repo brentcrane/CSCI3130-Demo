@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CSCI3130-Demo</string>
+    <string name="buttonText">Change Text</string>
+    <string name="textBoxText">Write Something</string>
 </resources>
